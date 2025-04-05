@@ -122,7 +122,7 @@ body {
     font-size: 12px;
 }
 
-/* Página de Login */
+/* Página de Login e cadastro*/
 .login {
     height: var(--tamanho-banner);
     background-image: url(..//assets/imgs/bg-jelly-fish-para-home.png);
